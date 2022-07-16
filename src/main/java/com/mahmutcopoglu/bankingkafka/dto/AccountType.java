@@ -1,4 +1,4 @@
-package dto;
+package com.mahmutcopoglu.bankingkafka.dto;
 
 public enum AccountType {
 

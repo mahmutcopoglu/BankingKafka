@@ -1,8 +1,6 @@
-package dto;
+package com.mahmutcopoglu.bankingkafka.dto;
 
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 
 @Data
 public class AccountCreateRequest {

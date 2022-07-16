@@ -1,0 +1,4 @@
+986754077 deposit amount:1500.0
+417651006 deposit amount:1500.0
+986754077 transfer amount:600.0,transferred_account:417651006
+986754077 transfer amount:600.0,transferred_account:417651006
